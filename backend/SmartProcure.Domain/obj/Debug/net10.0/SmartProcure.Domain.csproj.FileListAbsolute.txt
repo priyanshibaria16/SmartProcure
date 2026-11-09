@@ -1,0 +1,11 @@
+D:\SmartProcure\backend\SmartProcure.Domain\bin\Debug\net10.0\SmartProcure.Domain.deps.json
+D:\SmartProcure\backend\SmartProcure.Domain\bin\Debug\net10.0\SmartProcure.Domain.dll
+D:\SmartProcure\backend\SmartProcure.Domain\bin\Debug\net10.0\SmartProcure.Domain.pdb
+D:\SmartProcure\backend\SmartProcure.Domain\obj\Debug\net10.0\SmartProcure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartProcure\backend\SmartProcure.Domain\obj\Debug\net10.0\SmartProcure.Domain.AssemblyInfoInputs.cache
+D:\SmartProcure\backend\SmartProcure.Domain\obj\Debug\net10.0\SmartProcure.Domain.AssemblyInfo.cs
+D:\SmartProcure\backend\SmartProcure.Domain\obj\Debug\net10.0\SmartProcure.Domain.csproj.CoreCompileInputs.cache
+D:\SmartProcure\backend\SmartProcure.Domain\obj\Debug\net10.0\SmartProcure.Domain.dll
+D:\SmartProcure\backend\SmartProcure.Domain\obj\Debug\net10.0\refint\SmartProcure.Domain.dll
+D:\SmartProcure\backend\SmartProcure.Domain\obj\Debug\net10.0\SmartProcure.Domain.pdb
+D:\SmartProcure\backend\SmartProcure.Domain\obj\Debug\net10.0\ref\SmartProcure.Domain.dll

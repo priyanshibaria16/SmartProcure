@@ -1,0 +1,15 @@
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\SmartProcure.Application.csproj.AssemblyReference.cache
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\SmartProcure.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\SmartProcure.Application.AssemblyInfoInputs.cache
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\SmartProcure.Application.AssemblyInfo.cs
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\SmartProcure.Application.csproj.CoreCompileInputs.cache
+D:\SmartProcure\backend\SmartProcure.Application\bin\Debug\net10.0\SmartProcure.Application.deps.json
+D:\SmartProcure\backend\SmartProcure.Application\bin\Debug\net10.0\SmartProcure.Application.dll
+D:\SmartProcure\backend\SmartProcure.Application\bin\Debug\net10.0\SmartProcure.Application.pdb
+D:\SmartProcure\backend\SmartProcure.Application\bin\Debug\net10.0\SmartProcure.Domain.dll
+D:\SmartProcure\backend\SmartProcure.Application\bin\Debug\net10.0\SmartProcure.Domain.pdb
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\SmartPro.0744B3A5.Up2Date
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\SmartProcure.Application.dll
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\refint\SmartProcure.Application.dll
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\SmartProcure.Application.pdb
+D:\SmartProcure\backend\SmartProcure.Application\obj\Debug\net10.0\ref\SmartProcure.Application.dll

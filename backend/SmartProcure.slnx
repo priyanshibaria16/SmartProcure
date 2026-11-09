@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SmartProcure.API/SmartProcure.API.csproj" />
+  <Project Path="SmartProcure.Application/SmartProcure.Application.csproj" />
+  <Project Path="SmartProcure.Domain/SmartProcure.Domain.csproj" />
+  <Project Path="SmartProcure.Infrastructure/SmartProcure.Infrastructure.csproj" />
+  <Project Path="SmartProcure.Tests/SmartProcure.Tests.csproj" />
+</Solution>
